@@ -1,0 +1,20 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+.selected {
+	background:#CCC;
+}
+
+ul li {
+	display:inline;
+}
+
+ul {
+	background:#FFF;
+}
+
+.tab {
+	background:#CCC;
+}
