@@ -3,6 +3,8 @@
  * Original author: @ajpiano
  * Further changes, comments: @addyosmani
  * Licensed under the MIT license
+ *
+ * Plugin author: Douglas Frisk
  */
 
 
